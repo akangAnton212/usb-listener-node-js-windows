@@ -1,0 +1,4 @@
+khusus untuk windows, HID device harus di ubah dulu driver usbhid(default) ke winUsb menggunakan aplikasi Zadig https://zadig.akeo.ie/
+ini belom dicoba di GNU/Linux yak
+
+salam kang anton
